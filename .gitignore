@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+# Vite build output
+dist/
+.vite/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+# Runtime
+*.pid
+*.seed
